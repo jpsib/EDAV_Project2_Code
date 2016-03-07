@@ -3,6 +3,8 @@ title: "2003 USA Flood Analysis"
 output: pdf_document
 ---
 
+# 2003 USA Flood Analysis
+
 After some general analysis we noticed that the most floods took place in 2003. Of the floods that occurred in 2003, the USA had recorded the most floods. So we decided to look a little further into floods in the USA in 2003. Below is a plot of floods by month in the USA in 2003.   
 
 ```{r, message=F, warning=F, echo = F}
